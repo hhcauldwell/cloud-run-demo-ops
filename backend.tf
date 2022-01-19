@@ -4,7 +4,7 @@ terraform {
     organization = "kevala"
 
     workspaces {
-      name = "cloud-run-demo"
+      name = "cloud-run-demo-ops"
     }
   }
 }
